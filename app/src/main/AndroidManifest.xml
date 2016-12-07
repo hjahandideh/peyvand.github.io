@@ -30,7 +30,7 @@
 
         <activity
             android:name=".Peyvand"
-            android:label="صندوق دریافت" />
+            android:label="@string/peyvand" />
         <activity
             android:name=".SentPayam"
             android:label="پیام های ارسال شده">

@@ -3,7 +3,7 @@
     <string name="action_settings">Settings</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="peyvand">صندوق دریافت</string>
 
     <string name="close_drawer">close</string>
     <string name="open_drawer">open</string>
